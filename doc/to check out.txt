@@ -1,0 +1,3 @@
+http://grrrr.org/research/software/constantq/
+
+https://puredata.info/docs/tutorials/TipsAndTricks
