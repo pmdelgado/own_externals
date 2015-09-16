@@ -1,51 +1,41 @@
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ALL_BUILD", "ALL_BUILD.vcproj", "{AA983BEB-AEF1-4CB9-BDF1-A5CB33151812}"
-	ProjectSection(ProjectDependencies) = postProject
-		{21DFCE27-46CF-4D43-BF40-4E7D4BF9BFCD} = {21DFCE27-46CF-4D43-BF40-4E7D4BF9BFCD}
-		{5D31C03E-0184-4A61-80D2-7BE785F69E1D} = {5D31C03E-0184-4A61-80D2-7BE785F69E1D}
-	EndProjectSection
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ALL_BUILD", "ALL_BUILD.vcxproj", "{AA983BEB-AEF1-4CB9-BDF1-A5CB33151812}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZERO_CHECK", "ZERO_CHECK.vcproj", "{21DFCE27-46CF-4D43-BF40-4E7D4BF9BFCD}"
-	ProjectSection(ProjectDependencies) = postProject
-	EndProjectSection
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZERO_CHECK", "ZERO_CHECK.vcxproj", "{21DFCE27-46CF-4D43-BF40-4E7D4BF9BFCD}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testfilter~", "testfilter~.vcproj", "{5D31C03E-0184-4A61-80D2-7BE785F69E1D}"
-	ProjectSection(ProjectDependencies) = postProject
-		{21DFCE27-46CF-4D43-BF40-4E7D4BF9BFCD} = {21DFCE27-46CF-4D43-BF40-4E7D4BF9BFCD}
-	EndProjectSection
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testfilter~", "testfilter~.vcxproj", "{5D31C03E-0184-4A61-80D2-7BE785F69E1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
-		Release|Win32 = Release|Win32
 		MinSizeRel|Win32 = MinSizeRel|Win32
+		Release|Win32 = Release|Win32
 		RelWithDebInfo|Win32 = RelWithDebInfo|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{AA983BEB-AEF1-4CB9-BDF1-A5CB33151812}.Debug|Win32.ActiveCfg = Debug|Win32
-		{AA983BEB-AEF1-4CB9-BDF1-A5CB33151812}.Release|Win32.ActiveCfg = Release|Win32
 		{AA983BEB-AEF1-4CB9-BDF1-A5CB33151812}.MinSizeRel|Win32.ActiveCfg = MinSizeRel|Win32
+		{AA983BEB-AEF1-4CB9-BDF1-A5CB33151812}.Release|Win32.ActiveCfg = Release|Win32
 		{AA983BEB-AEF1-4CB9-BDF1-A5CB33151812}.RelWithDebInfo|Win32.ActiveCfg = RelWithDebInfo|Win32
 		{21DFCE27-46CF-4D43-BF40-4E7D4BF9BFCD}.Debug|Win32.ActiveCfg = Debug|Win32
 		{21DFCE27-46CF-4D43-BF40-4E7D4BF9BFCD}.Debug|Win32.Build.0 = Debug|Win32
-		{21DFCE27-46CF-4D43-BF40-4E7D4BF9BFCD}.Release|Win32.ActiveCfg = Release|Win32
-		{21DFCE27-46CF-4D43-BF40-4E7D4BF9BFCD}.Release|Win32.Build.0 = Release|Win32
 		{21DFCE27-46CF-4D43-BF40-4E7D4BF9BFCD}.MinSizeRel|Win32.ActiveCfg = MinSizeRel|Win32
 		{21DFCE27-46CF-4D43-BF40-4E7D4BF9BFCD}.MinSizeRel|Win32.Build.0 = MinSizeRel|Win32
+		{21DFCE27-46CF-4D43-BF40-4E7D4BF9BFCD}.Release|Win32.ActiveCfg = Release|Win32
+		{21DFCE27-46CF-4D43-BF40-4E7D4BF9BFCD}.Release|Win32.Build.0 = Release|Win32
 		{21DFCE27-46CF-4D43-BF40-4E7D4BF9BFCD}.RelWithDebInfo|Win32.ActiveCfg = RelWithDebInfo|Win32
 		{21DFCE27-46CF-4D43-BF40-4E7D4BF9BFCD}.RelWithDebInfo|Win32.Build.0 = RelWithDebInfo|Win32
 		{5D31C03E-0184-4A61-80D2-7BE785F69E1D}.Debug|Win32.ActiveCfg = Debug|Win32
 		{5D31C03E-0184-4A61-80D2-7BE785F69E1D}.Debug|Win32.Build.0 = Debug|Win32
-		{5D31C03E-0184-4A61-80D2-7BE785F69E1D}.Release|Win32.ActiveCfg = Release|Win32
-		{5D31C03E-0184-4A61-80D2-7BE785F69E1D}.Release|Win32.Build.0 = Release|Win32
 		{5D31C03E-0184-4A61-80D2-7BE785F69E1D}.MinSizeRel|Win32.ActiveCfg = MinSizeRel|Win32
 		{5D31C03E-0184-4A61-80D2-7BE785F69E1D}.MinSizeRel|Win32.Build.0 = MinSizeRel|Win32
+		{5D31C03E-0184-4A61-80D2-7BE785F69E1D}.Release|Win32.ActiveCfg = Release|Win32
+		{5D31C03E-0184-4A61-80D2-7BE785F69E1D}.Release|Win32.Build.0 = Release|Win32
 		{5D31C03E-0184-4A61-80D2-7BE785F69E1D}.RelWithDebInfo|Win32.ActiveCfg = RelWithDebInfo|Win32
 		{5D31C03E-0184-4A61-80D2-7BE785F69E1D}.RelWithDebInfo|Win32.Build.0 = RelWithDebInfo|Win32
 	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-	EndGlobalSection
-	GlobalSection(ExtensibilityAddIns) = postSolution
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal

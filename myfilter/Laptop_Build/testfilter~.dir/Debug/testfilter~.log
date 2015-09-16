@@ -1,0 +1,34 @@
+﻿Build started 16.09.2015 23:22:37.
+     1>Project "C:\Users\dgd\pd-win\own_externals\myfilter\Laptop_Build\testfilter~.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "testfilter~.dir\Debug\testfilter~.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule C:/Users/dgd/pd-win/own_externals/myfilter/Laptop_Build/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\dgd\pd-win\own_externals\myfilter\Laptop_Build\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Users\dgd\pd-win\pd\src" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D MSW /D "CMAKE_INTDIR=\"Debug\"" /D testfilter__EXPORTS /D _WINDLL /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"testfilter~.dir\Debug\\" /Fd"testfilter~.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt "testfilter~.c"
+         testfilter~.c
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"testfilter~.dir\Debug\testfilter~.dll.embed.manifest.res" "testfilter~.dir\Debug\testfilter~_manifest.rc" 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dgd\pd-win\own_externals\myfilter\Laptop_Build\Debug\testfilter~.dll" /INCREMENTAL /NOLOGO /LIBPATH:"C:/Users/dgd/pd-win/pd/bin" /LIBPATH:"C:/Users/dgd/pd-win/pd/bin/Debug" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib pd.lib /DEF:"C:/Users/dgd/pd-win/own_externals/myfilter/Laptop_Build/testfilter~.def" /MANIFEST /ManifestFile:"testfilter~.dir\Debug\testfilter~.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/dgd/pd-win/own_externals/myfilter/Laptop_Build/Debug/testfilter~.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/dgd/pd-win/own_externals/myfilter/Laptop_Build/Debug/testfilter~.lib" /MACHINE:X86 /DLL "testfilter~.dir\Debug\testfilter~.dll.embed.manifest.res"
+         "testfilter~.dir\Debug\testfilter~.obj"  /machine:X86 /debug 
+            Creating library C:/Users/dgd/pd-win/own_externals/myfilter/Laptop_Build/Debug/testfilter~.lib and object C:/Users/dgd/pd-win/own_externals/myfilter/Laptop_Build/Debug/testfilter~.exp
+     1>testfilter~.exp : warning LNK4070: /OUT:testfilter_tilde.dll directive in .EXP differs from output filename 'C:\Users\dgd\pd-win\own_externals\myfilter\Laptop_Build\Debug\testfilter~.dll'; ignoring directive
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"testfilter~.dir\Debug\testfilter~.dll.embed.manifest" /manifest "testfilter~.dir\Debug\testfilter~.dll.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"testfilter~.dir\Debug\testfilter~.dll.embed.manifest.res" "testfilter~.dir\Debug\testfilter~_manifest.rc" 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dgd\pd-win\own_externals\myfilter\Laptop_Build\Debug\testfilter~.dll" /INCREMENTAL /NOLOGO /LIBPATH:"C:/Users/dgd/pd-win/pd/bin" /LIBPATH:"C:/Users/dgd/pd-win/pd/bin/Debug" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib pd.lib /DEF:"C:/Users/dgd/pd-win/own_externals/myfilter/Laptop_Build/testfilter~.def" /MANIFEST /ManifestFile:"testfilter~.dir\Debug\testfilter~.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/dgd/pd-win/own_externals/myfilter/Laptop_Build/Debug/testfilter~.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/dgd/pd-win/own_externals/myfilter/Laptop_Build/Debug/testfilter~.lib" /MACHINE:X86 /DLL "testfilter~.dir\Debug\testfilter~.dll.embed.manifest.res"
+         "testfilter~.dir\Debug\testfilter~.obj"  /machine:X86 /debug 
+            Creating library C:/Users/dgd/pd-win/own_externals/myfilter/Laptop_Build/Debug/testfilter~.lib and object C:/Users/dgd/pd-win/own_externals/myfilter/Laptop_Build/Debug/testfilter~.exp
+     1>testfilter~.exp : warning LNK4070: /OUT:testfilter_tilde.dll directive in .EXP differs from output filename 'C:\Users\dgd\pd-win\own_externals\myfilter\Laptop_Build\Debug\testfilter~.dll'; ignoring directive
+         testfilter~.vcxproj -> C:\Users\dgd\pd-win\own_externals\myfilter\Laptop_Build\Debug\testfilter~.dll
+       FinalizeBuildStatus:
+         Deleting file "testfilter~.dir\Debug\testfilter~.unsuccessfulbuild".
+         Touching "testfilter~.dir\Debug\testfilter~.lastbuildstate".
+     1>Done Building Project "C:\Users\dgd\pd-win\own_externals\myfilter\Laptop_Build\testfilter~.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.96

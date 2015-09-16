@@ -1,0 +1,13 @@
+﻿Build started 16.09.2015 23:11:03.
+     1>Project "C:\Users\dgd\pd-win\own_externals\myfilter\ZERO_CHECK.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "ZERO_CHECK.dir\Debug\ZERO_CHECK.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ComputeCustomBuildOutput:
+         Creating directory "U:\pd\pd-win\own_externals\myfilter\CMakeFiles\".
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(806,5): error MSB3191: Unable to create directory "U:\pd\pd-win\own_externals\myfilter\CMakeFiles\". Der angegebene Netzwerkname ist nicht mehr verfügbar.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(806,5): error MSB3191: 
+     1>Done Building Project "C:\Users\dgd\pd-win\own_externals\myfilter\ZERO_CHECK.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:21.21

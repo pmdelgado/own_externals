@@ -1,0 +1,2 @@
+LIBRARY testfilter_tilde
+EXPORTS testfilter_tilde_setup

@@ -1,0 +1,3 @@
+C:/Users/dgd/pd-win/own_externals/myfilter/Laptop_Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/dgd/pd-win/own_externals/myfilter/Laptop_Build/CMakeFiles/testfilter~.dir
+C:/Users/dgd/pd-win/own_externals/myfilter/Laptop_Build/CMakeFiles/ZERO_CHECK.dir

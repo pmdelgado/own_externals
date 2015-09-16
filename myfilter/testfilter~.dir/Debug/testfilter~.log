@@ -1,0 +1,11 @@
+﻿Build started 16.09.2015 23:11:24.
+     1>Project "C:\Users\dgd\pd-win\own_externals\myfilter\testfilter~.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Das Verzeichnis "U:\pd\pd-win\own_externals\myfilter\Debug\" wird erstellt.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(301,6): error MSB3191: Das Verzeichnis "U:\pd\pd-win\own_externals\myfilter\Debug\" kann nicht erstellt werden. Der angegebene Netzwerkname ist nicht mehr verfügbar.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(301,6): error MSB3191: 
+     1>Done Building Project "C:\Users\dgd\pd-win\own_externals\myfilter\testfilter~.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.10

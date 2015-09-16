@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="testfilter_tilde">
+</Property><Property Name="Solution File" Value="C:\Users\dgd\pd-win\own_externals\myfilter\testfilter_tilde.sln">
+</Property><Property Name="Date" Value="Mittwoch, 16. September 2015">
+</Property><Property Name="Time" Value="23:10">
+</Property></Properties><Event ErrorLevel="0" Project="ALL_BUILD" Source="ALL_BUILD.vcproj" Description="Converting project file 'C:\Users\dgd\pd-win\own_externals\myfilter\ALL_BUILD.vcproj'.">
+</Event><Event ErrorLevel="0" Project="ALL_BUILD" Source="ALL_BUILD.vcproj" Description="Done converting to new project file 'C:\Users\dgd\pd-win\own_externals\myfilter\ALL_BUILD.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="ALL_BUILD" Source="ALL_BUILD.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ZERO_CHECK" Source="ZERO_CHECK.vcproj" Description="Converting project file 'C:\Users\dgd\pd-win\own_externals\myfilter\ZERO_CHECK.vcproj'.">
+</Event><Event ErrorLevel="0" Project="ZERO_CHECK" Source="ZERO_CHECK.vcproj" Description="Done converting to new project file 'C:\Users\dgd\pd-win\own_externals\myfilter\ZERO_CHECK.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="ZERO_CHECK" Source="ZERO_CHECK.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="testfilter~" Source="testfilter~.vcproj" Description="Converting project file 'C:\Users\dgd\pd-win\own_externals\myfilter\testfilter~.vcproj'.">
+</Event><Event ErrorLevel="0" Project="testfilter~" Source="testfilter~.vcproj" Description="Done converting to new project file 'C:\Users\dgd\pd-win\own_externals\myfilter\testfilter~.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="testfilter~" Source="testfilter~.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="testfilter_tilde.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="testfilter_tilde.sln" Description="Converted">
+</Event></UpgradeLog>
